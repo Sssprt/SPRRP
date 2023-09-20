@@ -1,6 +1,6 @@
 # SPRT
 
--Version 1.3-
+-Version 1.2-
 
 Вся нужная информация на Wiki.
 
